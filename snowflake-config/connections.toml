@@ -1,0 +1,8 @@
+[modern_data_engineering_snowflake]
+account = "OZYCGHJ-AUB18317"
+user = "hannapethani"
+password = "<my-password>"
+database = "LOAD_DATA"
+schema = "PUBLIC"
+warehouse = "COMPUTE_WH"
+role = "ACCOUNTADMIN"

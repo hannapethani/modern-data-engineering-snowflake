@@ -1,0 +1,14 @@
+default_connection_name = "modern_data_engineering_snowflake"
+
+[cli]
+ignore_new_version_warning = false
+
+[cli.logs]
+save_logs = true
+level = "info"
+path = "C:\\Users\\60192852\\.snowflake\\logs"
+
+[cli.encoding]
+file_io = "utf-8"
+subprocess = "utf-8"
+stdout = "utf-8"
